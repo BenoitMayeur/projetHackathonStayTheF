@@ -18,4 +18,8 @@ Nous étions une équipe de 5:
 - 2 front-ends: H. Al-obaidi et B. Mayeur (moi)
 - 1 back-end: A. Englebert
 
+Technologies utilisées: Vue.JS + CSS
+
 J'étais en charge de l'intégration de la maquette du site. J'ai également contribué à la réflexion sur le choix de la problématique et de la meilleure manière de l'aborder.
+
+La jonction front-end/back-end nous prenait trop de temps pour une question de mise en ligne de la DB, nous avons donc décidé de mettre toutes les données du back-end en front-end.
