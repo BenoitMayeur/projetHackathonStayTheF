@@ -312,6 +312,10 @@ footer p{
         width:80%;
     }
 
+.div_title{
+  width: 98%;
+}
+
     .m_main_titles{
       overflow: hidden;
     }

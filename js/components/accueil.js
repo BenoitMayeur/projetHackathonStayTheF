@@ -34,7 +34,10 @@ const Accueil = {
 
 
         <div class="m_pour_demarrer">
-            <h1 class="m_main_titles">1. Pour démarrer</h1>
+            <div class="div_title">
+                <h1 class="m_main_titles">1. Pour démarrer</h1>
+            </div>
+
             <div class="row">
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="m_card not_clickable">
@@ -71,7 +74,9 @@ const Accueil = {
             </div>
         </div>
         <div class="m_pour_contact">
-            <h1 class="m_main_titles">2. Garder le contact</h1>
+            <div class="div_title">
+                <h1 class="m_main_titles">2. Garder le contact</h1>
+            </div>
             <div class="row">
                 <div class="col-12 col-md-6 col-lg-3">
                     <router-link class="m_card_routeur" to="envoyeremail/">
@@ -113,7 +118,9 @@ const Accueil = {
             </div>
         </div>
         <div class="m_quotidien">
-            <h1 class="m_main_titles">3. Au quotidien</h1>
+            <div class="div_title">
+                <h1 class="m_main_titles">3. Au quotidien</h1>
+            </div>
             <div class="row">
                 <div class="col-12 col-md-6 col-lg-3">
                     <router-link class="m_card_routeur" :to="{ name: 'actualite'}">
@@ -152,7 +159,9 @@ const Accueil = {
             </div>
         </div>
         <div class="m_achat_depense">
-            <h1 class="m_main_titles">4. Achat et dépense</h1>
+            <div class="div_title">
+                <h1 class="m_main_titles">4. Achat et dépense</h1>
+            </div>
             <div class="row">
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="m_card not_clickable">
@@ -191,7 +200,9 @@ const Accueil = {
             </div>
         </div>
         <div class="m_achat_depense">
-            <h1 class="m_main_titles">5. Se divertir</h1>
+            <div class="div_title">
+                <h1 class="m_main_titles">5. Se divertir</h1>
+            </div>
             <div class="row">
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="m_card not_clickable">
